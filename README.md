@@ -1,5 +1,5 @@
 # Vaishnavi Mahajan :smiley::wave:
-<img src="learning_GsFrowf4_NXzr.gif" alt="Kitten"
+<img src="learning_UsnXkv2T_Okez.gif" alt="Kitten"
 	title="A cute kitten" align="right" />
 - :woman_student: I am **Computer Science and Engineering**, second year student at **Walchand College of Engineering, Sangli**
 
