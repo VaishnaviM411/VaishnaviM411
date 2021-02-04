@@ -17,6 +17,6 @@
 - [Aster Mess Management System](https://github.com/VaishnaviM411/AsterMessManagement) _C-language based project to **manage customer information, attendance and fees**_
 
 ## Connect
-![https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&tbnid=JdyXos__tp7KHM&vet=12ahUKEwjxo-Cpzc_uAhVDA3IKHXFjAKEQMygAegUIARCnAQ..i&docid=vLBuaTBzrfpOUM&w=512&h=512&q=linkedin%20login&hl=en&ved=2ahUKEwjxo-Cpzc_uAhVDA3IKHXFjAKEQMygAegUIARCnAQ](http://www.linkedin.com/in/vaishnavi-mahajan-a191121a5)
+[![](linkedin.png)](http://www.linkedin.com/in/vaishnavi-mahajan-a191121a5)
 
 
