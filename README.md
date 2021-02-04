@@ -1,5 +1,6 @@
 # Vaishnavi Mahajan :smiley::wave:
-
+<img src="learning_GsFrowf4_NXzr.gif" alt="Kitten"
+	title="A cute kitten" align="right" />
 - :woman_student: I am **Computer Science and Engineering**, second year student at **Walchand College of Engineering, Sangli**
 
 - :woman_technologist: I'm currently learning **Web Development**.
@@ -11,8 +12,8 @@
 - 😄 Pronouns: She/Her
 
 ## Projects
-- :globe_with_meridians:[Course registration website with Payment Gateway Integration](https://github.com/Teknath-jha/WCECourses) _Backend- **Django** | Frontend- **HTML/CSS/Bootstrap**_
-  - [Have a look at the deployed project (slightly modified)](https://wce-valueadded.herokuapp.com/)
+- :globe_with_meridians:[Course registration website with Payment Gateway Integration](https://github.com/Teknath-jha/WCECourses)<br>   _Backend- **Django** | Frontend- **HTML/CSS/Bootstrap**_
+<br>  [Have a look at the deployed project (slightly modified)](https://wce-valueadded.herokuapp.com/)
 - [TypingTiger](https://github.com/VaishnaviM411/TypingTiger) _C-language based project to **speed-up typing skills**_
 - [Aster Mess Management System](https://github.com/VaishnaviM411/AsterMessManagement) _C-language based project to **manage customer information, attendance and fees**_
 
