@@ -13,7 +13,7 @@
 
 ## Projects
 - :globe_with_meridians:[Course registration website with Payment Gateway Integration](https://github.com/Teknath-jha/WCECourses)<br>   _Backend- **Django** | Frontend- **HTML/CSS/Bootstrap**_
-<br>  [Have a look at the deployed project (slightly modified)](https://wce-valueadded.herokuapp.com/)
+<!--<br>  [Have a look at the deployed project (slightly modified)](https://wce-valueadded.herokuapp.com/)-->
 - [TypingTiger](https://github.com/VaishnaviM411/TypingTiger) _C-language based project to **speed-up typing skills**_
 - [Aster Mess Management System](https://github.com/VaishnaviM411/AsterMessManagement) _C-language based project to **manage customer information, attendance and fees**_
 
