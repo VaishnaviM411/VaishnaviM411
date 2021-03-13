@@ -5,7 +5,7 @@
 
 - :woman_technologist: I'm currently learning **Web Development**.
 
-- :construction: I'm currently working on :handshake: **Chat application**.
+<!--- :construction: I'm currently working on :handshake: **Chat application**.-->
 
 - :repeat: I'm practicing **Competitive Programming**.
 
