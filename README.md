@@ -3,7 +3,7 @@
 	title="A cute kitten" align="right" />
 - :woman_student: I am **Computer Science and Engineering**, second year student at **Walchand College of Engineering, Sangli**
 
-- :woman_technologist: I'm currently learning **Web Development**.
+- :woman_technologist: I'm **Full Stack Web Development**.
 
 <!--- :construction: I'm currently working on :handshake: **Chat application**.-->
 
